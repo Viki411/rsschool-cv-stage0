@@ -18,6 +18,7 @@ I am 31 years old. I really want to get a new profession. It will help me reach 
 * HTML
 * CSS/SASS
 * Git
+* Photoshop
  
 ## Code Examples
 
