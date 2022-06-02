@@ -34,5 +34,5 @@ Not related to front-end development.
 [HTML,CSS](https://openedu.ru/course/ITMOUniversity/WEBDEV/?session=self_2021_2022)
 
 ## Language:
-Russian - native speaker
-English level - A2
+* Russian - native speaker
+* English level - A2
